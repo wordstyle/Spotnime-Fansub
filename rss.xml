@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>spotnime Releases</title>
+    <description>Latest spotnime Releases</description>
+    <copyright>Spotnime Fansub 2019</copyright>
+    <link>https://fansub.spotnime.xyz/</link>
+    <atom:link href="https://fansub.spotnime.xyz/rss.xml" rel="self" type="application/rss+xml"/>
+<language>en</language>
+    <image>
+      <title>spotnime Releases</title>
+      <url>https://fansub.spotnime.xyz/design/rss.png</url>
+      <link>https://fansub.spotnime.xyz/</link>
+    </image>
+<pubDate>Mon, 14 Jun 2021 18:14:39 +0000</pubDate>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Sentouin, Hakenshimasu!</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Mon, 14 Jun 2021 07:13:19 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#9</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Edens Zero</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 17:32:41 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#8</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Tokyo Revengers</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 07:06:15 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#7</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Vivy: Fluorite Eye's Song</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 06:08:51 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#6</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Ijiranaide, Nagatoro-san</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 06:05:22 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#5</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Eighty-Six</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 06:02:15 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#4</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Slime Taoshite 300-nen, Shiranai Uchi ni Level Max ni Nattemashita</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 05:58:25 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#3</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Shakunetsu Kabaddi</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 05:55:26 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#2</guid>
+    </item>
+    <item>
+      <link>https://fansub.spotnime.xyz/</link>
+      <title>Boku no Hero Academia Season 5</title>
+      <description>Visit our portal for more information</description>
+      <pubDate>Sun, 13 Jun 2021 05:52:07 +0700</pubDate>
+      <guid>https://fansub.spotnime.xyz/#1</guid>
+    </item>
+  </channel>
+</rss>

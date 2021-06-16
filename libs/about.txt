@@ -1,0 +1,7 @@
+<h1>:: Tentang fansub website ::</h1>
+<hr>
+<p>Spotnime Fansub adalah portal rilisan yang telah tersedia dalam Website dan Aplikasi Spotnime</p>
+<p>Silakan kunjungi halaman berikut untuk bisa mengakses anime secara lengkap
+<li style="font-size:12px;">Website : <a href="https://web.spotnime.xyz">https://web.spotnime.xyz</a></li>
+<li style="font-size:12px;">Google Play Store : <a href="http://play.google.com/store/apps/details?id=com.wordstyle.spotnime">Spotnime Channel - Anime Streaming Sub Indo</a></li>
+</p>
